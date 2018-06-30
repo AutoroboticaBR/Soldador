@@ -1,0 +1,71 @@
+                             BOARD SYNOPSIS
+
+                       Board File Name: BACKUP1
+                             Date: 23 May 06
+                             Time: 21:56:04
+
+*****************************************************************
+
+
+    The synopsis below summarizes the parameters to be used during
+autorouting and projects the expected results.  Prior to starting the
+Neural autorouter, examine the synopsis to insure the results are as
+expected.
+    If satisfied with the projections, proceed into autorouting.  If
+NOT statisfied, use PARAMETERS in the OPTIONS menu to enter the desired
+parameters or else exit the router and change the host database.
+
+
+1.  LAYERS: The 1 layers will be routed as follows:
+             BOTTOM         :  Vertical
+
+2.  CONNECTIONS: There are 13 nets with 29 connections to be routed.
+
+3.  POWER NETS: There are 0 power net(s) to be routed:
+                There are 0 power net(s) to be fanned out:
+
+5.  CORNERS:  Track corners are to be mitred.
+
+6.  PARTS:  There are 18 parts on the board:
+             SIPS                     :  1
+             Discretes                :  16
+             Other                    :  1
+
+7.  PADS:  There are 43 pads on the top layer and 43 pads on
+    the bottom layer.  DIP pads are 3.048 mm in diameter.  SMD
+    pads are 0. mm wide.
+
+8.  VIA PADS:  Via pads are 1.524 mm  wide.
+
+9.  LENGTH MINIMIZATION:  Most nets are to be Length Minimized
+    using MIN DIST.
+
+10. TRACKS:  The primary track width is 0.9999 mm:
+             64.492% of etch has width 0.9999 mm
+              4.611% of etch has width 1.5001 mm
+              1.210% of etch has width 1.5748 mm
+              0.910% of etch has width 1.9998 mm
+             27.041% of etch has width 2. mm 
+              1.736% of etch has width 3. mm 
+
+11. SPACE:  The space clearance will be 0.5 mm.
+
+12. DENSITY:  The board area is 67.509 sq.in..  There are
+    2 Equivalent 16 pin DIPs on the board.  The density is
+    25.12  sq. mm per Equivalent 16 pin DIPs.
+
+13. ROUTING PREDICTION:  The probability of routing to 100%
+    completion is 100.0%.
+
+14. TIME PREDICTION:  The board will be routed in approximately 
+    0 hours and 0 minutes.
+
+15. MEMORY PREDICTION:  The board will need approximately 
+    0 MB.
+
+
+
+******************************** END ****************************
+
+
+

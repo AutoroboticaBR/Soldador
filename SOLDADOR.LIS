@@ -1,0 +1,53 @@
+AutoECO Report
+FILE-A: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\SOLDADOR.MAX
+FILE-B: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\SOLDADOR.MNL
+If "*EOF*" immediately follows, no changes were made
+Adding footprint DIODE
+Adding footprint LED
+Adding footprint FUSE1
+Adding footprint CHAVE HH
+Adding footprint CON3
+Adding footprint CON2
+Adding footprint CON4
+Adding package DIODE
+Adding package LED
+Adding package RESISTOR
+Adding package FUSE
+Adding package PUCH_BOTTON
+Adding package CON3
+Adding package CON2
+Adding package CON4
+Adding component D1
+Adding component D2
+Adding component D3
+Adding component D4
+Adding component D5
+Adding component R1
+Adding component R2
+Adding component F1
+Adding component SW1
+Adding component J1
+Adding component J2
+Adding component J3
+Adding component J4
+Adding component J5
+Adding component J6
+Adding component J7
+Adding component D6
+Adding component J8
+Adding net N00036
+Adding net N00039
+Adding net N00027
+Adding net N00172
+Adding net N00033
+Adding net N00194
+Adding net N00505
+Adding net N00206
+Adding net N00437
+Adding net N00419
+Adding net N00209
+Adding net N00197
+Adding net N00274
+Deleting net DEFAULT
+*EOF*
+No errors found

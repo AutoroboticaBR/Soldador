@@ -1,0 +1,133 @@
+Post Processor Report
+OrCAD FILE: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.MAX
+Tue May 23 21:46:56 2006
+
+*********************************************************
+
+Output file: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.BOT
+
+Aperture totals for E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.BOT:
+---------------------------------------------------------
+D10:  0.0880 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0880 ROUND  --       0 Draws,       4 Flashes
+D12:  0.0520 ROUND  --       0 Draws,       5 Flashes
+D13:  0.0520 SQUARE --       0 Draws,       1 Flashes
+D14:  0.0450 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0450 ROUND  --       0 Draws,       3 Flashes
+D16:  0.0620 ROUND  --       0 Draws,       5 Flashes
+D17:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D18:  0.1000 ROUND  --       0 Draws,       6 Flashes
+D19:  0.1000 SQUARE --       0 Draws,       6 Flashes
+D20:  0.1260 ROUND  --       0 Draws,       6 Flashes
+D21:  0.0394 ROUND  --      93 Draws,       0 Flashes
+---------------------------------------------------------
+ 12 D-Codes      -----      93 Draws,      43 Flashes
+
+*********************************************************
+
+Output file: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.SMT
+
+Aperture totals for E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.SMT:
+---------------------------------------------------------
+D10:  0.0880 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0880 ROUND  --       0 Draws,       4 Flashes
+D12:  0.0520 ROUND  --       0 Draws,       5 Flashes
+D13:  0.0520 SQUARE --       0 Draws,       1 Flashes
+D14:  0.0450 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0450 ROUND  --       0 Draws,       3 Flashes
+D16:  0.0620 ROUND  --       0 Draws,       5 Flashes
+D17:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D18:  0.1000 ROUND  --       0 Draws,       6 Flashes
+D19:  0.1000 SQUARE --       0 Draws,       6 Flashes
+D22:  0.1310 ROUND  --       0 Draws,       6 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----       0 Draws,      43 Flashes
+
+*********************************************************
+
+Output file: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.SMB
+
+Aperture totals for E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.SMB:
+---------------------------------------------------------
+D10:  0.0880 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0880 ROUND  --       0 Draws,       4 Flashes
+D12:  0.0520 ROUND  --       0 Draws,       5 Flashes
+D13:  0.0520 SQUARE --       0 Draws,       1 Flashes
+D14:  0.0450 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0450 ROUND  --       0 Draws,       3 Flashes
+D16:  0.0620 ROUND  --       0 Draws,       5 Flashes
+D17:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D18:  0.1000 ROUND  --       0 Draws,       6 Flashes
+D19:  0.1000 SQUARE --       0 Draws,       6 Flashes
+D22:  0.1310 ROUND  --       0 Draws,       6 Flashes
+---------------------------------------------------------
+ 11 D-Codes      -----       0 Draws,      43 Flashes
+
+*********************************************************
+
+Output file: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.SST
+
+Aperture totals for E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.SST:
+---------------------------------------------------------
+D23:  0.0080 ROUND  --     374 Draws,       0 Flashes
+---------------------------------------------------------
+  1 D-Codes      -----     374 Draws,       0 Flashes
+
+*********************************************************
+
+Output file: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.AST
+
+Aperture totals for E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.AST:
+---------------------------------------------------------
+D10:  0.0880 SQUARE --       0 Draws,       4 Flashes
+D11:  0.0880 ROUND  --       0 Draws,       4 Flashes
+D12:  0.0520 ROUND  --       0 Draws,       5 Flashes
+D13:  0.0520 SQUARE --       0 Draws,       1 Flashes
+D14:  0.0450 SQUARE --       0 Draws,       1 Flashes
+D15:  0.0450 ROUND  --       0 Draws,       3 Flashes
+D16:  0.0620 ROUND  --       0 Draws,       5 Flashes
+D17:  0.0620 SQUARE --       0 Draws,       2 Flashes
+D18:  0.1000 ROUND  --       0 Draws,       6 Flashes
+D19:  0.1000 SQUARE --       0 Draws,       6 Flashes
+D23:  0.0080 ROUND  --     910 Draws,       0 Flashes
+D24:  0.0500 ROUND  --       4 Draws,       0 Flashes
+---------------------------------------------------------
+ 12 D-Codes      -----     914 Draws,      37 Flashes
+
+*********************************************************
+
+Output file: E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.DRD
+
+Aperture totals for E:\MEUS DOCUMENTOS\PROJETOS\SOLDADOR\BACKUP1.DRD:
+---------------------------------------------------------
+D24:  0.0500 ROUND  --       4 Draws,       0 Flashes
+D25:  0.0100 ROUND  --     735 Draws,       0 Flashes
+---------------------------------------------------------
+  2 D-Codes      -----     739 Draws,       0 Flashes
+
+
+*********************************************************
+
+Aperture totals for entire project:
+---------------------------------------------------------
+D10:  0.0880 SQUARE --       0 Draws,      16 Flashes
+D11:  0.0880 ROUND  --       0 Draws,      16 Flashes
+D12:  0.0520 ROUND  --       0 Draws,      20 Flashes
+D13:  0.0520 SQUARE --       0 Draws,       4 Flashes
+D14:  0.0450 SQUARE --       0 Draws,       4 Flashes
+D15:  0.0450 ROUND  --       0 Draws,      12 Flashes
+D16:  0.0620 ROUND  --       0 Draws,      20 Flashes
+D17:  0.0620 SQUARE --       0 Draws,       8 Flashes
+D18:  0.1000 ROUND  --       0 Draws,      24 Flashes
+D19:  0.1000 SQUARE --       0 Draws,      24 Flashes
+D20:  0.1260 ROUND  --       0 Draws,       6 Flashes
+D21:  0.0394 ROUND  --      93 Draws,       0 Flashes
+D22:  0.1310 ROUND  --       0 Draws,      12 Flashes
+D23:  0.0080 ROUND  --    1284 Draws,       0 Flashes
+D24:  0.0500 ROUND  --       8 Draws,       0 Flashes
+D25:  0.0100 ROUND  --     735 Draws,       0 Flashes
+---------------------------------------------------------
+ 16 D-Codes      -----    2120 Draws,     166 Flashes
+
+
+No warnings or errors.
